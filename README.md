@@ -30,7 +30,7 @@ You can click [HERE](https://bootcampspot.instructuremedia.com/embed/bdabcb9e-f9
 2. Install Dependencies:
 
     ```bash
-    npm install
+    npm install inquirer@8.2.0
 
 ## Usage
 
