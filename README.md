@@ -5,6 +5,10 @@
 
 This is a command-line application that allows you to generate simple logos. The application accepts user input to customize the text, text color, shape, shape color, and font size of the logo, and then generates an SVG file.
 
+## Video Demonstration
+
+You can click [HERE](https://bootcampspot.instructuremedia.com/embed/bdabcb9e-f9aa-4f64-8196-b0a15c79f622) to watch a video desmonstration of how to use the application
+
 ## Features
 
 - Generate a logo with up to three characters of text.
@@ -20,8 +24,8 @@ This is a command-line application that allows you to generate simple logos. The
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd logo-generator
+   git clone git@github.com:MiguelPena0101/Logofy.git
+   cd Logofy
 
 2. Install Dependencies:
 
